@@ -5,6 +5,8 @@ I'm Dexter (he/him), currently working as an Associate Producer with the network
 
 Assorted data I'm working with can be found at the [cbc-data](https://github.com/dexmcmillan/cbc-data) repository, and I'm always happy to have contributions to the [Datawrapper Graphics](https://github.com/dexmcmillan/datawrappergraphics) library I'm building. The inner workings of live charts I've build for CBC News can be found in my [cbc-datawrapperscripts](https://github.com/dexmcmillan/cbc-datawrapperscripts) repository.
 
+You can find many of my best visualizations on [my portfolio](http://dextermcmillan.com/), which I designed and built myself using Vue.js.
+
 - 📝Currently working on: a Python library to work with Datawrapper maps and charts, including a class to live-update locator maps.
 - ⚡Fun fact: I'm trained as a journalist, with a Master of Journalism from Carleton University in Ottawa, Canada.
 - 🌱I’m currently learning: How to generate better docs with Sphinx.
