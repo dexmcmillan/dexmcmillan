@@ -7,7 +7,7 @@ Assorted data I'm working with can be found at the [cbc-data](https://github.com
 
 You can find many of my best visualizations on [my portfolio](http://dextermcmillan.com/), which I designed and built myself using Vue.js.
 
-- 📝<b>Currently working on</b>: a Python library to work with Datawrapper maps and charts, including a class to live-update locator maps.
+- 📝<b>Currently working on</b>: [a Python library to work with Datawrapper maps and charts](https://github.com/dexmcmillan/datawrappergraphics), including a class to live-update locator maps.
 - 🦟<b>Fun fact</b>: I'm on a lifelong mission to find out [how many mosquitoes it would take to kill you](https://github.com/dexmcmillan/mosquito-question/blob/main/mosquito.ipynb).
 - 🌱<b>Currently learning</b>: How to generate better docs with Sphinx.
 - 🏢<b>Currently looking</b>: For opportunities! If you have work related to data analysis or visualization, newsroom software development, or Datawrapper, get in touch on twitter at [@dexmcmillan](https://twitter.com/dexmcmillan) or by [email](mailto:dexmcmillan@gmail.com).
