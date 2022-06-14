@@ -12,6 +12,9 @@ You can find many of my best visualizations on [my portfolio](http://dextermcmil
 - 🌱<b>Currently learning</b>: How to generate better docs with Sphinx.
 - 🏢<b>Currently looking</b>: For opportunities! If you have work related to data analysis or visualization, newsroom software development, or Datawrapper, get in touch on twitter at [@dexmcmillan](https://twitter.com/dexmcmillan) or by [email](mailto:dexmcmillan@gmail.com).
 
+## Awards
+- [Excellence in Data Storytelling, RTDNA Awards, 2022](https://rtdnacanada.com/2022-national/2022-digital-award-winners-national/) - I did the graphics for [this fantastic data story](https://www.cbc.ca/news/canada/warning-signs-intimate-partner-homicide-1.6269761) by my colleagues at CBC's investigative unit. See how I did it [here](https://github.com/dexmcmillan/cbc-data/blob/main/notebooks-other/20211001-IPV.ipynb).
+
 ## Recent releases
 - [Datawrapper Graphics v0.3.2](https://github.com/dexmcmillan/datawrappergraphics/releases/tag/v0.3.2)
 
