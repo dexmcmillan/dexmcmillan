@@ -12,8 +12,15 @@ You can find many of my best visualizations on [my portfolio](http://dextermcmil
 - 🌱<b>Currently learning</b>: How to generate better docs with Sphinx.
 - 🏢<b>Currently looking</b>: For opportunities! If you have work related to data analysis or visualization, newsroom software development, or Datawrapper, get in touch on twitter at [@dexmcmillan](https://twitter.com/dexmcmillan) or by [email](mailto:dexmcmillan@gmail.com).
 
+## Current projects
+- [*Data work*](https://github.com/dexmcmillan/cbc-data): Daily data work can be found here.
+- [*Datawrapper graphics*](https://github.com/dexmcmillan/datawrappergraphics): A Python library I created for interfacing between Pandas dataframes and Datawrapper graphics.
+- [*Cartogrammer*](https://github.com/dexmcmillan/cartogrammer): A library I created to turn shapefiles into cartogram shapefiles using Geopandas.
+
+
 ## Awards
 - [Excellence in Data Storytelling, RTDNA Awards, 2022](https://rtdnacanada.com/2022-national/2022-digital-award-winners-national/) - I did the graphics for [this fantastic data story](https://www.cbc.ca/news/canada/warning-signs-intimate-partner-homicide-1.6269761) by my colleagues at CBC's investigative unit. See how I did it [here](https://github.com/dexmcmillan/cbc-data/blob/main/notebooks-other/20211001-IPV.ipynb).
+- [Excellence in Data Storytelling](https://newsinteractives.cbc.ca/thebigspend/) - When I worked for CBC's investigative unit, I was part of a small team that did most of the data work for The Big Spend, a national project tracking COVID-19 relief funds in Canada.
 
 ## Recent releases
 - [Datawrapper Graphics v0.3.2](https://github.com/dexmcmillan/datawrappergraphics/releases/tag/v0.3.2)
