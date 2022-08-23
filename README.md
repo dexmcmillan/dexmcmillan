@@ -1,7 +1,7 @@
 # 👋 Hello/bonjour!
 
 ## About me
-I'm Dexter (he/him), currently working as an Associate Producer with the network digital graphics team at CBC News in Toronto, ON, Canada. By day, I process data to produce graphics on [CBCNews.ca](https://www.cbc.ca/news?). I'm also a Datawrapper enthusiast, and enjoy hacking it to do all sorts of cool stuff. I'm a former Javascript/node.js developer who's in love with Python. I love telling visual stories with data and graphics.
+I'm Dexter (he/him), currently working as an Associate Producer with the network digital graphics team at CBC News in Toronto, ON, Canada. I'm a Datawrapper enthusiast, and enjoy hacking it to do all sorts of cool stuff. I'm a former Javascript/node.js developer who's in love with Python. I love telling visual stories with data and graphics.
 
 Assorted data I'm working with can be found at the [cbc-data](https://github.com/dexmcmillan/cbc-data) repository, and I'm always happy to have contributions to the [Datawrapper Graphics](https://github.com/dexmcmillan/datawrappergraphics) library I'm building. The inner workings of live charts I've build for CBC News can be found in my [cbc-datawrapperscripts](https://github.com/dexmcmillan/cbc-datawrapperscripts) repository.
 
