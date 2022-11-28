@@ -9,13 +9,14 @@ You can find many of my best visualizations on [my portfolio](http://dextermcmil
 
 - 📝<b>Currently working on</b>: [a Python library to work with Datawrapper maps and charts](https://github.com/dexmcmillan/datawrappergraphics), including a class to live-update locator maps.
 - 🦟<b>Fun fact</b>: I'm on a lifelong mission to find out [how many mosquitoes it would take to kill you](https://github.com/dexmcmillan/mosquito-question/blob/main/mosquito.ipynb).
-- 🌱<b>Currently learning</b>: How to generate better docs with Sphinx.
-- 🏢<b>Currently looking</b>: For opportunities! If you have work related to data analysis or visualization, newsroom software development, or Datawrapper, get in touch on twitter at [@dexmcmillan](https://twitter.com/dexmcmillan) or by [email](mailto:dexmcmillan@gmail.com).
+- 🌱<b>Currently learning</b>: How to create (better) data viz with D3.
+- 🏢<b>Currently looking</b>: For opportunities! If you have work related to data analysis or visualization, web development, or Datawrapper, get in touch on twitter at [@dexmcmillan](https://twitter.com/dexmcmillan) or by [email](mailto:dexmcmillan@gmail.com).
 
 ## Current projects
 - [**Data work**](https://github.com/dexmcmillan/cbc-data): Daily data work can be found here.
 - [**Datawrapper graphics**](https://github.com/dexmcmillan/datawrappergraphics): A Python library I created for interfacing between Pandas dataframes and Datawrapper graphics.
 - [**Cartogrammer**](https://github.com/dexmcmillan/cartogrammer): A library I created to turn shapefiles into cartogram shapefiles using Geopandas.
+- [**Weather Records App**](https://github.com/dexmcmillan/weather-records-app/tree/master): An app that shows how long Canadian cities have gone without breaking a daily temperature record.
 
 
 ## Awards
