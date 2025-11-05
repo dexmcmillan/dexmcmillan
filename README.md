@@ -1,7 +1,7 @@
 # 👋 Hello/bonjour!
 
 ## About me
-I'm Dexter (he/him), an investigative data journalist with CBC Marketplace, based in Toronto, ON, Canada. I work primarily in Python, but occasionally work with Javascript as the need arises.
+I'm Dexter (he/him), an investigative data journalist with The Globe and Mail, based in Toronto, ON, Canada. I work primarily in Python, but occasionally work with Javascript as the need arises.
 
 ## Awards
 - [**Excellence in Data Storytelling, RTDNA Awards, 2022**](https://rtdnacanada.com/2022-national/2022-digital-award-winners-national/) - I did the graphics for [this fantastic data story](https://www.cbc.ca/news/canada/warning-signs-intimate-partner-homicide-1.6269761) by my colleagues at CBC's investigative unit. See how I did it [here](https://github.com/dexmcmillan/cbc-data/blob/main/notebooks-other/20211001-IPV.ipynb).
